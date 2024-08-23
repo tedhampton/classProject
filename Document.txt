@@ -1,1 +1,5 @@
 Test document - Markup
+
+# Course Heading 
+## Section and Time
+### Day and time meetings
